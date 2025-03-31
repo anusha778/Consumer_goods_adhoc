@@ -17,3 +17,6 @@ Data Analysis and Interpretation
 Report Generation
 
 Problem Solving and Decision Making
+
+
+This project showcases my proficiency in Data Analytics, where I utilized SQL as a key component, as part of the Codebasics SQL Project Challenge
